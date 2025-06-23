@@ -1,2 +1,3 @@
-# apify-youtube-transcript
- Collect Youtube transcriptions via Apify
+# YouTube Transcription Collector
+
+This project uses the Apify API to collect transcriptions from YouTube videos based on their video IDs.
